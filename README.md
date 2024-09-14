@@ -7,13 +7,22 @@ This model can assist waitstaff and restaurants in understanding and estimating 
 3. numpy
 4. plotly
 5. sikit-learn
-# Descrition
+# Description
 1. Explore the dataset using Pandas to understand its structure and characteristics.
 2. Visualize data using Plotly to identify relationships between variables.
 3. Preprocess data by encoding categorical features and splitting it into training and testing sets.
 4. Train a Linear Regression model to predict tips based on selected features.
 5. Evaluate the model's performance using metrics.
 6. Understand the model's accuracy in predicting tips based on provided features.
+# Dataset
+ The dataset contains the below data
+ 1. total_bill 
+ 2. tip
+ 3. sex
+ 4. smoker
+ 5. day
+ 6. time
+ 7. size
 # Setup instructions
 1. Create a virtual Environment.
 2. Install dependencies.
